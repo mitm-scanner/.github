@@ -1,1 +1,1 @@
-# .github
+# `mitm-scanner` profile repository
